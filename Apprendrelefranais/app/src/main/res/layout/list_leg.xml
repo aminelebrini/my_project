@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:scrollY="10000000dp"
+    android:scrollbarSize="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:translationX="-10dp">
+
+        <!--FIRST LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-4dp">
+
+            <ImageView
+                android:id="@+id/img_1"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/tom"/>
+
+            <ImageView
+                android:id="@+id/img_2"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+
+                android:background="@drawable/pom"/>
+
+            <ImageView
+                android:id="@+id/img_3"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-12dp"
+                android:background="@drawable/oig"/>
+
+
+        </LinearLayout>
+
+        <!---SECOND LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-17dp">
+
+
+            <ImageView
+                android:id="@+id/img_4"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/caro"/>
+
+            <ImageView
+                android:id="@+id/img_5"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/lai"/>
+
+            <ImageView
+                android:id="@+id/img_6"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/mais"/>
+
+
+        </LinearLayout>
+
+        <!--THIRD LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-28dp">
+
+            <ImageView
+                android:id="@+id/img_7"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/poiv"/>
+
+            <ImageView
+                android:id="@+id/img_8"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/broc"/>
+
+            <ImageView
+                android:id="@+id/img_9"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/conc"/>
+
+
+
+        </LinearLayout>
+
+        <!--FORTH LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-41dp">
+
+            <ImageView
+                android:id="@+id/img_10"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/cham"/>
+
+            <ImageView
+                android:id="@+id/img_11"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/ail"/>
+
+            <ImageView
+                android:id="@+id/img_12"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/citr"/>
+
+
+
+        </LinearLayout>
+
+        <!--FIFTH LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-56dp">
+
+            <ImageView
+                android:id="@+id/img_13"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/ober"/>
+
+            <ImageView
+                android:id="@+id/img_14"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/chouf"/>
+
+            <ImageView
+                android:id="@+id/img_15"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/har"/>
+        </LinearLayout>
+
+        <!--SIX LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-70dp">
+
+            <ImageView
+                android:id="@+id/img_16"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/radi"/>
+
+            <ImageView
+                android:id="@+id/img_17"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/per"/>
+
+            <ImageView
+                android:id="@+id/img_18"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/pim"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

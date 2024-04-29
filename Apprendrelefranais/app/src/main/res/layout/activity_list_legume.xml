@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".list_legumeActivity">
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="#BDB9B9"
+        android:padding="20dp"
+        android:translationY="7dp"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@color/light_blue"
+        android:text="Les Légumes"
+        android:padding="15dp"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/btn_back"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/left_chevron"
+        android:translationY="25dp"
+        android:translationX="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:translationY="79dp">
+
+        <include layout="@layout/list_leg"/>
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

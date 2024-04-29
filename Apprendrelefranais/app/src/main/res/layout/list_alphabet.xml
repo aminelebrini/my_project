@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbarAlwaysDrawHorizontalTrack="true"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    android:scrollbarSize="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!--FIRST LAYOUT-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/btn_a"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_a"
+                android:translationX="22dp" />
+
+            <ImageButton
+                android:id="@+id/btn_b"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_b"
+                android:translationX="32dp" />
+
+            <ImageButton
+                android:id="@+id/btn_c"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_c"
+                android:translationX="42dp" />
+
+            <ImageButton
+                android:id="@+id/btn_d"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_d"
+                android:translationX="52dp" />
+
+        </LinearLayout>
+
+        <!--SECOND LAYOUT-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:translationY="7dp">
+
+            <ImageButton
+                android:id="@+id/btn_e"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_e"
+                android:translationX="22dp" />
+
+            <ImageButton
+                android:id="@+id/btn_f"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/ff"
+                android:translationX="32dp" />
+
+            <ImageButton
+                android:id="@+id/btn_g"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/gg"
+                android:translationX="42dp" />
+
+            <ImageButton
+                android:id="@+id/btn_h"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/hh"
+                android:translationX="52dp" />
+
+        </LinearLayout>
+
+        <!--THIRD LAYOUT-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:translationY="9dp">
+
+            <ImageButton
+                android:id="@+id/btn_i"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/i"
+                android:translationX="22dp" />
+
+            <ImageButton
+                android:id="@+id/btn_j"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/j"
+                android:translationX="32dp" />
+
+            <ImageButton
+                android:id="@+id/btn_k"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/k"
+                android:translationX="42dp" />
+
+            <ImageButton
+                android:id="@+id/btn_l"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_l"
+                android:translationX="52dp" />
+
+        </LinearLayout>
+
+        <!--FOURTH LAYOUT-->
+        <!-- Add more layouts as needed -->
+
+        <!--FIFTH LAYOUT-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:translationY="10dp">
+
+            <ImageButton
+                android:id="@+id/btn_m"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_m"
+                android:translationX="22dp" />
+
+            <ImageButton
+                android:id="@+id/btn_n"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/n"
+                android:translationX="32dp" />
+
+            <ImageButton
+                android:id="@+id/btn_o"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/o"
+                android:translationX="42dp" />
+
+            <ImageButton
+                android:id="@+id/btn_p"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/p"
+                android:translationX="62dp" />
+
+        </LinearLayout>
+
+        <!--SIXTH LAYOUT-->
+        <!-- Add more layouts as needed -->
+
+        <!--SEVENTH LAYOUT-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:translationY="14dp">
+
+            <ImageButton
+                android:id="@+id/btn_q"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/q"
+                android:translationX="22dp" />
+
+            <ImageButton
+                android:id="@+id/btn_r"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_r"
+                android:translationX="32dp" />
+
+            <ImageButton
+                android:id="@+id/btn_s"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_s"
+                android:translationX="42dp" />
+
+            <ImageButton
+                android:id="@+id/btn_t"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/t"
+                android:translationX="52dp" />
+
+        </LinearLayout>
+
+        <!--EIGHTH LAYOUT-->
+        <!-- Add more layouts as needed -->
+
+        <!--NINTH LAYOUT-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:translationY="12dp">
+
+            <ImageButton
+                android:id="@+id/btn_u"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:background="@drawable/letter_u"
+                android:translationX="12dp" />
+
+            <ImageButton
+                android:id="@+id/btn_v"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/v"
+                android:translationX="12dp" />
+
+            <ImageButton
+                android:id="@+id/btn_w"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/w"
+                android:translationX="22dp" />
+
+            <ImageButton
+                android:id="@+id/btn_x"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/x"
+                android:translationX="32dp" />
+
+        </LinearLayout>
+
+        <!--TENTH LAYOUT-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:translationY="6dp">
+
+            <ImageButton
+                android:id="@+id/btn_y"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/y"
+                android:translationX="22dp" />
+
+            <ImageButton
+                android:id="@+id/btn_z"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/letter_z"
+                android:translationX="32dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

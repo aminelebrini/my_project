@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:translationX="-10dp">
+
+    <!--FIRST LAYOUT-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:orientation="horizontal"
+        android:translationY="-4dp">
+
+        <ImageView
+            android:id="@+id/img_1"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="12dp"
+            android:background="@drawable/chien"/>
+
+        <ImageView
+            android:id="@+id/img_2"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+
+            android:background="@drawable/chat"/>
+
+        <ImageView
+            android:id="@+id/img_3"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="-12dp"
+            android:background="@drawable/ois"/>
+
+
+    </LinearLayout>
+
+    <!---SECOND LAYOUT-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:orientation="horizontal"
+        android:translationY="-17dp">
+
+
+        <ImageView
+            android:id="@+id/img_4"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="12dp"
+            android:background="@drawable/pois"/>
+
+        <ImageView
+            android:id="@+id/img_5"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="-2dp"
+            android:background="@drawable/sou"/>
+
+        <ImageView
+            android:id="@+id/img_6"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="-15dp"
+            android:background="@drawable/tort"/>
+
+
+    </LinearLayout>
+
+    <!--THIRD LAYOUT-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:orientation="horizontal"
+        android:translationY="-28dp">
+
+        <ImageView
+            android:id="@+id/img_7"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="12dp"
+            android:background="@drawable/lapin"/>
+
+        <ImageView
+            android:id="@+id/img_8"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="-2dp"
+            android:background="@drawable/came"/>
+
+        <ImageView
+            android:id="@+id/img_9"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="-15dp"
+            android:background="@drawable/pir"/>
+
+
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.project.apprendrelefranais">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ApprendreLeFrançais"
+        tools:targetApi="31">
+        <!-- Déclaration de l'activité principale -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            tools:ignore="MissingClass">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- Autres activités -->
+        <activity
+            android:name=".repasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".familleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fruits"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".profesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".paysActivity"
+            android:exported="false" />
+        <activity
+            android:name=".drapauxActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".techActivity"
+            android:exported="false" />
+        <activity
+            android:name=".espaceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".salonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".chambreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lvl5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".lvl4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".insectesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".villeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ecoleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".moisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".joursActivity"
+            android:exported="false" />
+        <activity
+            android:name=".animauxActivity"
+            android:exported="false" />
+        <activity
+            android:name=".trspActivity"
+            android:exported="false" />
+        <activity
+            android:name=".list_legumeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".couleursActivity"
+            android:exported="false" />
+        <activity
+            android:name=".list_numActivity"
+            android:exported="false" />
+        <activity
+            android:name=".zActivity"
+            android:exported="false" />
+        <activity
+            android:name=".yActivity"
+            android:exported="false" />
+        <activity
+            android:name=".xActivity"
+            android:exported="false" />
+        <activity
+            android:name=".wActivity"
+            android:exported="false" />
+        <activity
+            android:name=".vActivity"
+            android:exported="false" />
+        <activity
+            android:name=".uActivity"
+            android:exported="false" />
+        <activity
+            android:name=".tActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rActivity"
+            android:exported="false" />
+        <activity
+            android:name=".qActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pActivity"
+            android:exported="false" />
+        <activity
+            android:name=".oActivity"
+            android:exported="false" />
+        <activity
+            android:name=".nActivity"
+            android:exported="false" />
+        <activity
+            android:name=".mActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kActivity"
+            android:exported="false" />
+        <activity
+            android:name=".jActivity"
+            android:exported="false" />
+        <activity
+            android:name=".iActivity"
+            android:exported="false" />
+        <activity
+            android:name=".hActivity"
+            android:exported="false" />
+        <activity
+            android:name=".gActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fActivity"
+            android:exported="false" />
+        <activity
+            android:name=".eActivity"
+            android:exported="false" />
+        <activity
+            android:name=".dActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bActivity"
+            android:exported="false" />
+        <activity
+            android:name=".aActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Alphabet"
+            android:exported="false" />
+        <activity
+            android:name=".list_activity"
+            android:exported="false" />
+        <activity
+            android:name=".lvl1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".lvl2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".lvl3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".meteoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".vetementActivity"
+            android:exported="false" />
+        <activity
+            android:name=".corpsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".vacancesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".formesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cuisineActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

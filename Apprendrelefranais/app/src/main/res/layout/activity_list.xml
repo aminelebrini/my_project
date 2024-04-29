@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".list_activity">
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="#BDB9B9"
+        android:padding="20dp"
+        android:translationY="7dp"
+        android:textSize="20dp"
+
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@color/light_blue"
+        android:text="APPRENDRE LE FRANÇAIS"
+        android:padding="20dp"
+        android:fontFamily="@font/itimregular"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:id="@+id/first_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <ImageButton
+                android:id="@+id/btn_lvl1"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="25dp"
+                android:background="@drawable/sign1"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck"
+                />
+
+            <ImageButton
+                android:id="@+id/btn_lvl2"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="35dp"
+                android:background="@drawable/sign2"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btn_lvl3"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="50dp"
+                android:background="@drawable/sign3"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+        </LinearLayout>
+
+        <!--Second layout-->
+
+        <LinearLayout
+            android:id="@+id/second_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:translationY="30dp"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <ImageButton
+                android:id="@+id/btn_lvl4"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="25dp"
+                android:background="@drawable/sign4"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btn_lvl5"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="35dp"
+                android:background="@drawable/sign5"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btn_lvl6"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="50dp"
+                android:background="@drawable/sign6"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/first_layout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:translationY="55dp"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <ImageButton
+                android:id="@+id/btn_lvl7"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="25dp"
+                android:background="@drawable/sign7"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck"
+                />
+
+            <ImageButton
+                android:id="@+id/btn_lvl8"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="35dp"
+                android:background="@drawable/sign8"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btn_lvl9"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:translationX="50dp"
+                android:background="@drawable/sign9"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

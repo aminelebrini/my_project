@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".joursActivity">
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="#BDB9B9"
+        android:padding="20dp"
+        android:translationY="7dp"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@color/light_blue"
+        android:text="Les Jours de la Semaine"
+        android:padding="20dp"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/btn_back"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/left_chevron"
+        android:translationX="5dp"
+        android:translationY="20dp"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:translationY="90dp">
+
+    <!--FIRST LAYOUT-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:orientation="horizontal"
+        android:translationY="-4dp"
+        android:translationX="55dp">
+
+        <ImageView
+            android:id="@+id/img_1"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="12dp"
+            android:background="@drawable/lun"/>
+
+        <ImageView
+            android:id="@+id/img_2"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+
+            android:background="@drawable/mar"/>
+
+
+    </LinearLayout>
+
+    <!---SECOND LAYOUT-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:orientation="horizontal"
+        android:translationY="-17dp"
+        android:translationX="21dp">
+
+        <ImageView
+            android:id="@+id/img_3"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="45dp"
+            android:background="@drawable/merc"/>
+
+
+        <ImageView
+            android:id="@+id/img_4"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:translationX="35dp"
+            android:background="@drawable/jeud"/>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:translationX="0dp"
+            android:translationY="-17dp">
+
+            <ImageView
+                android:id="@+id/img_5"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="66dp"
+                android:background="@drawable/ven"/>
+
+
+            <ImageView
+                android:id="@+id/img_6"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="57dp"
+                android:background="@drawable/sam"/>
+
+            <ImageView
+                android:id="@+id/img_7"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationY="130dp"
+                android:translationX="-130dp"
+                android:background="@drawable/dim"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
