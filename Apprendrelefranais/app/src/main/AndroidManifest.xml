@@ -13,6 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ApprendreLeFrançais"
         tools:targetApi="31">
+
         <!-- Déclaration de l'activité principale -->
         <activity
             android:name=".MainActivity"
@@ -23,17 +24,15 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity> <!-- Autres activités -->
+        </activity>
+
+        <!-- Autres activités -->
         <activity
             android:name=".repasActivity"
             android:exported="false" />
         <activity
             android:name=".familleActivity"
             android:exported="false" />
-        <activity
-            android:name=".fruits"
-            android:exported="true"
-            tools:ignore="Instantiatable" />
         <activity
             android:name=".profesActivity"
             android:exported="false" />
@@ -207,6 +206,10 @@
             android:exported="false" />
         <activity
             android:name=".cuisineActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".list_fruits_Activity"
             android:exported="false" />
     </application>
 

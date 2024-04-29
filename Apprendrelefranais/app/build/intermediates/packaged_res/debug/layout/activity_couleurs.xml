@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".couleursActivity">
+
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="#BDB9B9"
+        android:padding="20dp"
+        android:translationY="7dp"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@color/light_blue"
+        android:text="Les Couleurs"
+        android:padding="20dp"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/btn_back"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/left_chevron"
+        android:translationY="25dp"
+        android:translationX="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:translationY="200dp"
+        android:translationX="-10dp">
+
+        <!--FIRST LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+
+            >
+
+            <ImageButton
+                android:id="@+id/btn_rouge"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/rouge"/>
+
+            <ImageButton
+                android:id="@+id/btn_vert"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:background="@drawable/vert"/>
+
+            <ImageButton
+                android:id="@+id/btn_bleu"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-12dp"
+                android:background="@drawable/bleu"/>
+
+
+        </LinearLayout>
+
+        <!---SECOND LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-9dp">
+
+
+            <ImageButton
+                android:id="@+id/btn_jaune"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/jaune"/>
+
+            <ImageButton
+                android:id="@+id/btn_orange"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/orange"/>
+
+            <ImageButton
+                android:id="@+id/btn_violet"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/violet"/>
+
+
+        </LinearLayout>
+
+        <!--THIRD LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-19dp">
+
+            <ImageButton
+                android:id="@+id/btn_rose"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/rose"/>
+
+            <ImageButton
+                android:id="@+id/btn_blanche"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/blanche"/>
+
+            <ImageButton
+                android:id="@+id/btn_gris"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/gris"/>
+
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

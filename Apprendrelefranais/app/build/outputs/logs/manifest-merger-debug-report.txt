@@ -1,0 +1,663 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:2:1-216:12
+INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:2:1-216:12
+INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:2:1-216:12
+INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:2:1-216:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\LB-PC\.gradle\caches\transforms-3\da4a177b0a7812530ab961a7a7967b71\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\LB-PC\.gradle\caches\transforms-3\5acf9a84f6874f66961cd7fc314b86a2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\04a0f34cf908c682d73fc22f94c08cc8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\af575453595166fed38ef613cf3573b3\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\581a9cb79a8f602c26f7a7528b0ac73d\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\LB-PC\.gradle\caches\transforms-3\a43d178abaa1b1b6bf236e0f0cca0e16\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\LB-PC\.gradle\caches\transforms-3\a8f0d931ce7ca0ad2f940141e9e4e29d\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\53638a9dfb2cb6b8a71b8ea55c383338\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\e2d2d3c4dd62635dbea352ab171561e5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\058e2b20403460f42e6113003ce03dc3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\cdb189cab21c76fe9110b42ee3105b39\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\e44573450bfeaacfbe89d93e4952b042\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\c0ab533cb6874651f47c3623222facc3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\8d4b695798afceade960960e2ee4a737\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\b3b439a94819041bcc75fbdf0082fd88\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\fb80625e1224e36c4d59528c5475be79\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\LB-PC\.gradle\caches\transforms-3\8cc9538d07be5ee56813203a3bd5512d\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\0e4f8c33d9193561b8e38efad33c2b20\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\69c32c1c1a1b5aa90ac37c570f5cce70\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\33f101a2055cfc36f5159cff91a590be\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\652e1bbf2fff7818028cc678bbc499e2\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\727833711c9718356847aede805468b7\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\96ab275d1a8424a226346d6acd77490d\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\01e1cb2b002b6e4c1f4e08def58d5d15\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\1fad258d92024336cf18f282cac03aa0\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\2607dd86103b03b73201836623844537\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\33b8d200c327e6b969174a002e684037\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\05282c1f0a97c352c32a939bc2096859\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\c5ae17571dbeafe6751550e06fa09cbf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\752f68e390483f1989f726856baf1dd5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\da9f48440e55833d879b13f5426e0fe1\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\c2eeda3aaae13a6198e27f578ba8150d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\6edf734ce6549cba42d2d87568ec4c5d\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\ed3162802a1418e83a839d1d39b75c23\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\10439bd38f7011e8a063682963748170\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\e72ef66a9e8e9d62bd22ffd5e6ff0411\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\20950aba1c926ba887c70028c7b332ad\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:6:5-214:19
+INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:6:5-214:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\LB-PC\.gradle\caches\transforms-3\da4a177b0a7812530ab961a7a7967b71\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\LB-PC\.gradle\caches\transforms-3\da4a177b0a7812530ab961a7a7967b71\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\LB-PC\.gradle\caches\transforms-3\5acf9a84f6874f66961cd7fc314b86a2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\LB-PC\.gradle\caches\transforms-3\5acf9a84f6874f66961cd7fc314b86a2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\c5ae17571dbeafe6751550e06fa09cbf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\c5ae17571dbeafe6751550e06fa09cbf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\752f68e390483f1989f726856baf1dd5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\752f68e390483f1989f726856baf1dd5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:14:9-57
+	android:dataExtractionRules
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:8:9-65
+activity#com.project.apprendrelefranais.MainActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:20:13-36
+	tools:ignore
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:21:13-40
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.project.apprendrelefranais.repasActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:31:13-42
+activity#com.project.apprendrelefranais.familleActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:34:13-44
+activity#com.project.apprendrelefranais.profesActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:37:13-43
+activity#com.project.apprendrelefranais.paysActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:39:9-41:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:40:13-41
+activity#com.project.apprendrelefranais.drapauxActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:42:9-44:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:43:13-44
+activity#com.project.apprendrelefranais.bainActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:46:13-41
+activity#com.project.apprendrelefranais.techActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:48:9-50:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:49:13-41
+activity#com.project.apprendrelefranais.espaceActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:51:9-53:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:52:13-43
+activity#com.project.apprendrelefranais.sportActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:54:9-56:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:55:13-42
+activity#com.project.apprendrelefranais.salonActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:57:9-59:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:58:13-42
+activity#com.project.apprendrelefranais.chambreActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:60:9-62:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:61:13-44
+activity#com.project.apprendrelefranais.lvl5Activity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:63:9-65:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:64:13-41
+activity#com.project.apprendrelefranais.lvl4Activity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:66:9-68:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:67:13-41
+activity#com.project.apprendrelefranais.insectesActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:69:9-71:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:70:13-45
+activity#com.project.apprendrelefranais.villeActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:72:9-74:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:73:13-42
+activity#com.project.apprendrelefranais.ecoleActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:75:9-77:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:77:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:76:13-42
+activity#com.project.apprendrelefranais.moisActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:78:9-80:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:79:13-41
+activity#com.project.apprendrelefranais.joursActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:81:9-83:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:82:13-42
+activity#com.project.apprendrelefranais.animauxActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:84:9-86:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:85:13-44
+activity#com.project.apprendrelefranais.trspActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:87:9-89:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:89:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:88:13-41
+activity#com.project.apprendrelefranais.list_legumeActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:90:9-92:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:92:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:91:13-48
+activity#com.project.apprendrelefranais.couleursActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:93:9-95:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:94:13-45
+activity#com.project.apprendrelefranais.list_numActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:96:9-98:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:97:13-45
+activity#com.project.apprendrelefranais.zActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:99:9-101:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:100:13-38
+activity#com.project.apprendrelefranais.yActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:102:9-104:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:104:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:103:13-38
+activity#com.project.apprendrelefranais.xActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:105:9-107:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:107:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:106:13-38
+activity#com.project.apprendrelefranais.wActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:108:9-110:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:110:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:109:13-38
+activity#com.project.apprendrelefranais.vActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:111:9-113:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:113:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:112:13-38
+activity#com.project.apprendrelefranais.uActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:114:9-116:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:116:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:115:13-38
+activity#com.project.apprendrelefranais.tActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:117:9-119:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:119:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:118:13-38
+activity#com.project.apprendrelefranais.sActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:120:9-122:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:122:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:121:13-38
+activity#com.project.apprendrelefranais.rActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:123:9-125:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:125:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:124:13-38
+activity#com.project.apprendrelefranais.qActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:126:9-128:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:127:13-38
+activity#com.project.apprendrelefranais.pActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:129:9-131:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:131:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:130:13-38
+activity#com.project.apprendrelefranais.oActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:132:9-134:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:134:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:133:13-38
+activity#com.project.apprendrelefranais.nActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:135:9-137:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:137:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:136:13-38
+activity#com.project.apprendrelefranais.mActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:138:9-140:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:139:13-38
+activity#com.project.apprendrelefranais.lActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:141:9-143:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:143:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:142:13-38
+activity#com.project.apprendrelefranais.kActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:144:9-146:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:146:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:145:13-38
+activity#com.project.apprendrelefranais.jActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:147:9-149:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:149:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:148:13-38
+activity#com.project.apprendrelefranais.iActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:150:9-152:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:152:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:151:13-38
+activity#com.project.apprendrelefranais.hActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:153:9-155:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:155:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:154:13-38
+activity#com.project.apprendrelefranais.gActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:156:9-158:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:158:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:157:13-38
+activity#com.project.apprendrelefranais.fActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:159:9-161:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:161:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:160:13-38
+activity#com.project.apprendrelefranais.eActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:162:9-164:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:164:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:163:13-38
+activity#com.project.apprendrelefranais.dActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:165:9-167:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:167:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:166:13-38
+activity#com.project.apprendrelefranais.cActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:168:9-170:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:170:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:169:13-38
+activity#com.project.apprendrelefranais.bActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:171:9-173:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:173:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:172:13-38
+activity#com.project.apprendrelefranais.aActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:174:9-176:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:176:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:175:13-38
+activity#com.project.apprendrelefranais.Alphabet
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:177:9-179:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:179:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:178:13-37
+activity#com.project.apprendrelefranais.list_activity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:180:9-182:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:182:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:181:13-42
+activity#com.project.apprendrelefranais.lvl1Activity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:183:9-185:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:185:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:184:13-41
+activity#com.project.apprendrelefranais.lvl2Activity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:186:9-188:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:188:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:187:13-41
+activity#com.project.apprendrelefranais.lvl3Activity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:189:9-191:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:191:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:190:13-41
+activity#com.project.apprendrelefranais.meteoActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:192:9-194:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:194:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:193:13-42
+activity#com.project.apprendrelefranais.vetementActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:195:9-197:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:197:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:196:13-45
+activity#com.project.apprendrelefranais.corpsActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:198:9-200:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:200:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:199:13-42
+activity#com.project.apprendrelefranais.vacancesActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:201:9-203:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:203:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:202:13-45
+activity#com.project.apprendrelefranais.formesActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:204:9-206:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:206:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:205:13-43
+activity#com.project.apprendrelefranais.cuisineActivity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:207:9-209:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:209:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:208:13-44
+activity#com.project.apprendrelefranais.list_fruits_Activity
+ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:211:9-213:40
+	android:exported
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:213:13-37
+	android:name
+		ADDED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:212:13-49
+uses-sdk
+INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\LB-PC\.gradle\caches\transforms-3\da4a177b0a7812530ab961a7a7967b71\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\LB-PC\.gradle\caches\transforms-3\da4a177b0a7812530ab961a7a7967b71\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\LB-PC\.gradle\caches\transforms-3\5acf9a84f6874f66961cd7fc314b86a2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\LB-PC\.gradle\caches\transforms-3\5acf9a84f6874f66961cd7fc314b86a2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\04a0f34cf908c682d73fc22f94c08cc8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\04a0f34cf908c682d73fc22f94c08cc8\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\af575453595166fed38ef613cf3573b3\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\af575453595166fed38ef613cf3573b3\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\581a9cb79a8f602c26f7a7528b0ac73d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\581a9cb79a8f602c26f7a7528b0ac73d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\LB-PC\.gradle\caches\transforms-3\a43d178abaa1b1b6bf236e0f0cca0e16\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\LB-PC\.gradle\caches\transforms-3\a43d178abaa1b1b6bf236e0f0cca0e16\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\LB-PC\.gradle\caches\transforms-3\a8f0d931ce7ca0ad2f940141e9e4e29d\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\LB-PC\.gradle\caches\transforms-3\a8f0d931ce7ca0ad2f940141e9e4e29d\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\53638a9dfb2cb6b8a71b8ea55c383338\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\53638a9dfb2cb6b8a71b8ea55c383338\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\e2d2d3c4dd62635dbea352ab171561e5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\e2d2d3c4dd62635dbea352ab171561e5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\058e2b20403460f42e6113003ce03dc3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\058e2b20403460f42e6113003ce03dc3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\cdb189cab21c76fe9110b42ee3105b39\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\cdb189cab21c76fe9110b42ee3105b39\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\e44573450bfeaacfbe89d93e4952b042\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\e44573450bfeaacfbe89d93e4952b042\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\c0ab533cb6874651f47c3623222facc3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\c0ab533cb6874651f47c3623222facc3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\8d4b695798afceade960960e2ee4a737\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\8d4b695798afceade960960e2ee4a737\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\b3b439a94819041bcc75fbdf0082fd88\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\b3b439a94819041bcc75fbdf0082fd88\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\fb80625e1224e36c4d59528c5475be79\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\fb80625e1224e36c4d59528c5475be79\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\LB-PC\.gradle\caches\transforms-3\8cc9538d07be5ee56813203a3bd5512d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\LB-PC\.gradle\caches\transforms-3\8cc9538d07be5ee56813203a3bd5512d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\0e4f8c33d9193561b8e38efad33c2b20\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\0e4f8c33d9193561b8e38efad33c2b20\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\69c32c1c1a1b5aa90ac37c570f5cce70\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\69c32c1c1a1b5aa90ac37c570f5cce70\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\33f101a2055cfc36f5159cff91a590be\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\33f101a2055cfc36f5159cff91a590be\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\652e1bbf2fff7818028cc678bbc499e2\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\652e1bbf2fff7818028cc678bbc499e2\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\727833711c9718356847aede805468b7\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\727833711c9718356847aede805468b7\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\96ab275d1a8424a226346d6acd77490d\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\96ab275d1a8424a226346d6acd77490d\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\01e1cb2b002b6e4c1f4e08def58d5d15\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\01e1cb2b002b6e4c1f4e08def58d5d15\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\1fad258d92024336cf18f282cac03aa0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\1fad258d92024336cf18f282cac03aa0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\2607dd86103b03b73201836623844537\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LB-PC\.gradle\caches\transforms-3\2607dd86103b03b73201836623844537\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\33b8d200c327e6b969174a002e684037\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\33b8d200c327e6b969174a002e684037\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\05282c1f0a97c352c32a939bc2096859\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\05282c1f0a97c352c32a939bc2096859\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\c5ae17571dbeafe6751550e06fa09cbf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\c5ae17571dbeafe6751550e06fa09cbf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\752f68e390483f1989f726856baf1dd5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\752f68e390483f1989f726856baf1dd5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\da9f48440e55833d879b13f5426e0fe1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\da9f48440e55833d879b13f5426e0fe1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\c2eeda3aaae13a6198e27f578ba8150d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\c2eeda3aaae13a6198e27f578ba8150d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\6edf734ce6549cba42d2d87568ec4c5d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\6edf734ce6549cba42d2d87568ec4c5d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\ed3162802a1418e83a839d1d39b75c23\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\ed3162802a1418e83a839d1d39b75c23\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\10439bd38f7011e8a063682963748170\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\10439bd38f7011e8a063682963748170\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\e72ef66a9e8e9d62bd22ffd5e6ff0411\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LB-PC\.gradle\caches\transforms-3\e72ef66a9e8e9d62bd22ffd5e6ff0411\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\20950aba1c926ba887c70028c7b332ad\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\20950aba1c926ba887c70028c7b332ad\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\752f68e390483f1989f726856baf1dd5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LB-PC\.gradle\caches\transforms-3\752f68e390483f1989f726856baf1dd5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.project.apprendrelefranais.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.project.apprendrelefranais.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

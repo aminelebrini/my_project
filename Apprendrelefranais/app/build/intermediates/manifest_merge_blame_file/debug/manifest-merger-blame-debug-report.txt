@@ -1,0 +1,500 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.project.apprendrelefranais"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.project.apprendrelefranais.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.project.apprendrelefranais.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:6:5-214:19
+18        android:allowBackup="true"
+18-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:7:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\LB-PC\.gradle\caches\transforms-3\28a7af075d5af218c19b63a2f54b1523\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:8:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:9:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:10:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:11:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:12:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:13:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.ApprendreLeFrançais" >
+29-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:14:9-57
+30
+31        <!-- Déclaration de l'activité principale -->
+32        <activity
+32-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:18:9-27:20
+33            android:name="com.project.apprendrelefranais.MainActivity"
+33-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:19:13-41
+34            android:exported="true" >
+34-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:20:13-36
+35            <intent-filter>
+35-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:22:13-26:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:23:17-69
+36-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:23:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:25:17-77
+38-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:25:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <!-- Autres activités -->
+43        <activity
+43-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:30:9-32:40
+44            android:name="com.project.apprendrelefranais.repasActivity"
+44-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:31:13-42
+45            android:exported="false" />
+45-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:32:13-37
+46        <activity
+46-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:33:9-35:40
+47            android:name="com.project.apprendrelefranais.familleActivity"
+47-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:34:13-44
+48            android:exported="false" />
+48-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:35:13-37
+49        <activity
+49-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:36:9-38:40
+50            android:name="com.project.apprendrelefranais.profesActivity"
+50-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:37:13-43
+51            android:exported="false" />
+51-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:38:13-37
+52        <activity
+52-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:39:9-41:40
+53            android:name="com.project.apprendrelefranais.paysActivity"
+53-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:40:13-41
+54            android:exported="false" />
+54-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:41:13-37
+55        <activity
+55-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:42:9-44:40
+56            android:name="com.project.apprendrelefranais.drapauxActivity"
+56-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:43:13-44
+57            android:exported="false" />
+57-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:44:13-37
+58        <activity
+58-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:45:9-47:40
+59            android:name="com.project.apprendrelefranais.bainActivity"
+59-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:46:13-41
+60            android:exported="false" />
+60-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:47:13-37
+61        <activity
+61-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:48:9-50:40
+62            android:name="com.project.apprendrelefranais.techActivity"
+62-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:49:13-41
+63            android:exported="false" />
+63-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:50:13-37
+64        <activity
+64-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:51:9-53:40
+65            android:name="com.project.apprendrelefranais.espaceActivity"
+65-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:52:13-43
+66            android:exported="false" />
+66-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:53:13-37
+67        <activity
+67-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:54:9-56:40
+68            android:name="com.project.apprendrelefranais.sportActivity"
+68-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:55:13-42
+69            android:exported="false" />
+69-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:56:13-37
+70        <activity
+70-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:57:9-59:40
+71            android:name="com.project.apprendrelefranais.salonActivity"
+71-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:58:13-42
+72            android:exported="false" />
+72-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:59:13-37
+73        <activity
+73-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:60:9-62:40
+74            android:name="com.project.apprendrelefranais.chambreActivity"
+74-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:61:13-44
+75            android:exported="false" />
+75-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:62:13-37
+76        <activity
+76-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:63:9-65:40
+77            android:name="com.project.apprendrelefranais.lvl5Activity"
+77-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:64:13-41
+78            android:exported="false" />
+78-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:65:13-37
+79        <activity
+79-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:66:9-68:40
+80            android:name="com.project.apprendrelefranais.lvl4Activity"
+80-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:67:13-41
+81            android:exported="false" />
+81-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:68:13-37
+82        <activity
+82-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:69:9-71:40
+83            android:name="com.project.apprendrelefranais.insectesActivity"
+83-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:70:13-45
+84            android:exported="false" />
+84-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:71:13-37
+85        <activity
+85-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:72:9-74:40
+86            android:name="com.project.apprendrelefranais.villeActivity"
+86-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:73:13-42
+87            android:exported="false" />
+87-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:74:13-37
+88        <activity
+88-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:75:9-77:40
+89            android:name="com.project.apprendrelefranais.ecoleActivity"
+89-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:76:13-42
+90            android:exported="false" />
+90-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:77:13-37
+91        <activity
+91-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:78:9-80:40
+92            android:name="com.project.apprendrelefranais.moisActivity"
+92-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:79:13-41
+93            android:exported="false" />
+93-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:80:13-37
+94        <activity
+94-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:81:9-83:40
+95            android:name="com.project.apprendrelefranais.joursActivity"
+95-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:82:13-42
+96            android:exported="false" />
+96-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:83:13-37
+97        <activity
+97-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:84:9-86:40
+98            android:name="com.project.apprendrelefranais.animauxActivity"
+98-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:85:13-44
+99            android:exported="false" />
+99-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:86:13-37
+100        <activity
+100-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:87:9-89:40
+101            android:name="com.project.apprendrelefranais.trspActivity"
+101-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:88:13-41
+102            android:exported="false" />
+102-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:89:13-37
+103        <activity
+103-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:90:9-92:40
+104            android:name="com.project.apprendrelefranais.list_legumeActivity"
+104-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:91:13-48
+105            android:exported="false" />
+105-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:92:13-37
+106        <activity
+106-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:93:9-95:40
+107            android:name="com.project.apprendrelefranais.couleursActivity"
+107-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:94:13-45
+108            android:exported="false" />
+108-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:95:13-37
+109        <activity
+109-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:96:9-98:40
+110            android:name="com.project.apprendrelefranais.list_numActivity"
+110-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:97:13-45
+111            android:exported="false" />
+111-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:98:13-37
+112        <activity
+112-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:99:9-101:40
+113            android:name="com.project.apprendrelefranais.zActivity"
+113-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:100:13-38
+114            android:exported="false" />
+114-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:101:13-37
+115        <activity
+115-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:102:9-104:40
+116            android:name="com.project.apprendrelefranais.yActivity"
+116-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:103:13-38
+117            android:exported="false" />
+117-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:104:13-37
+118        <activity
+118-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:105:9-107:40
+119            android:name="com.project.apprendrelefranais.xActivity"
+119-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:106:13-38
+120            android:exported="false" />
+120-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:107:13-37
+121        <activity
+121-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:108:9-110:40
+122            android:name="com.project.apprendrelefranais.wActivity"
+122-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:109:13-38
+123            android:exported="false" />
+123-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:110:13-37
+124        <activity
+124-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:111:9-113:40
+125            android:name="com.project.apprendrelefranais.vActivity"
+125-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:112:13-38
+126            android:exported="false" />
+126-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:113:13-37
+127        <activity
+127-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:114:9-116:40
+128            android:name="com.project.apprendrelefranais.uActivity"
+128-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:115:13-38
+129            android:exported="false" />
+129-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:116:13-37
+130        <activity
+130-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:117:9-119:40
+131            android:name="com.project.apprendrelefranais.tActivity"
+131-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:118:13-38
+132            android:exported="false" />
+132-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:119:13-37
+133        <activity
+133-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:120:9-122:40
+134            android:name="com.project.apprendrelefranais.sActivity"
+134-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:121:13-38
+135            android:exported="false" />
+135-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:122:13-37
+136        <activity
+136-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:123:9-125:40
+137            android:name="com.project.apprendrelefranais.rActivity"
+137-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:124:13-38
+138            android:exported="false" />
+138-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:125:13-37
+139        <activity
+139-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:126:9-128:40
+140            android:name="com.project.apprendrelefranais.qActivity"
+140-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:127:13-38
+141            android:exported="false" />
+141-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:128:13-37
+142        <activity
+142-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:129:9-131:40
+143            android:name="com.project.apprendrelefranais.pActivity"
+143-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:130:13-38
+144            android:exported="false" />
+144-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:131:13-37
+145        <activity
+145-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:132:9-134:40
+146            android:name="com.project.apprendrelefranais.oActivity"
+146-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:133:13-38
+147            android:exported="false" />
+147-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:134:13-37
+148        <activity
+148-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:135:9-137:40
+149            android:name="com.project.apprendrelefranais.nActivity"
+149-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:136:13-38
+150            android:exported="false" />
+150-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:137:13-37
+151        <activity
+151-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:138:9-140:40
+152            android:name="com.project.apprendrelefranais.mActivity"
+152-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:139:13-38
+153            android:exported="false" />
+153-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:140:13-37
+154        <activity
+154-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:141:9-143:40
+155            android:name="com.project.apprendrelefranais.lActivity"
+155-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:142:13-38
+156            android:exported="false" />
+156-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:143:13-37
+157        <activity
+157-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:144:9-146:40
+158            android:name="com.project.apprendrelefranais.kActivity"
+158-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:145:13-38
+159            android:exported="false" />
+159-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:146:13-37
+160        <activity
+160-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:147:9-149:40
+161            android:name="com.project.apprendrelefranais.jActivity"
+161-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:148:13-38
+162            android:exported="false" />
+162-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:149:13-37
+163        <activity
+163-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:150:9-152:40
+164            android:name="com.project.apprendrelefranais.iActivity"
+164-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:151:13-38
+165            android:exported="false" />
+165-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:152:13-37
+166        <activity
+166-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:153:9-155:40
+167            android:name="com.project.apprendrelefranais.hActivity"
+167-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:154:13-38
+168            android:exported="false" />
+168-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:155:13-37
+169        <activity
+169-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:156:9-158:40
+170            android:name="com.project.apprendrelefranais.gActivity"
+170-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:157:13-38
+171            android:exported="false" />
+171-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:158:13-37
+172        <activity
+172-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:159:9-161:40
+173            android:name="com.project.apprendrelefranais.fActivity"
+173-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:160:13-38
+174            android:exported="false" />
+174-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:161:13-37
+175        <activity
+175-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:162:9-164:40
+176            android:name="com.project.apprendrelefranais.eActivity"
+176-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:163:13-38
+177            android:exported="false" />
+177-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:164:13-37
+178        <activity
+178-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:165:9-167:40
+179            android:name="com.project.apprendrelefranais.dActivity"
+179-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:166:13-38
+180            android:exported="false" />
+180-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:167:13-37
+181        <activity
+181-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:168:9-170:40
+182            android:name="com.project.apprendrelefranais.cActivity"
+182-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:169:13-38
+183            android:exported="false" />
+183-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:170:13-37
+184        <activity
+184-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:171:9-173:40
+185            android:name="com.project.apprendrelefranais.bActivity"
+185-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:172:13-38
+186            android:exported="false" />
+186-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:173:13-37
+187        <activity
+187-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:174:9-176:40
+188            android:name="com.project.apprendrelefranais.aActivity"
+188-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:175:13-38
+189            android:exported="false" />
+189-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:176:13-37
+190        <activity
+190-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:177:9-179:40
+191            android:name="com.project.apprendrelefranais.Alphabet"
+191-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:178:13-37
+192            android:exported="false" />
+192-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:179:13-37
+193        <activity
+193-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:180:9-182:40
+194            android:name="com.project.apprendrelefranais.list_activity"
+194-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:181:13-42
+195            android:exported="false" />
+195-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:182:13-37
+196        <activity
+196-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:183:9-185:40
+197            android:name="com.project.apprendrelefranais.lvl1Activity"
+197-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:184:13-41
+198            android:exported="false" />
+198-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:185:13-37
+199        <activity
+199-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:186:9-188:40
+200            android:name="com.project.apprendrelefranais.lvl2Activity"
+200-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:187:13-41
+201            android:exported="false" />
+201-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:188:13-37
+202        <activity
+202-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:189:9-191:40
+203            android:name="com.project.apprendrelefranais.lvl3Activity"
+203-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:190:13-41
+204            android:exported="false" />
+204-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:191:13-37
+205        <activity
+205-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:192:9-194:40
+206            android:name="com.project.apprendrelefranais.meteoActivity"
+206-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:193:13-42
+207            android:exported="false" />
+207-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:194:13-37
+208        <activity
+208-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:195:9-197:40
+209            android:name="com.project.apprendrelefranais.vetementActivity"
+209-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:196:13-45
+210            android:exported="false" />
+210-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:197:13-37
+211        <activity
+211-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:198:9-200:40
+212            android:name="com.project.apprendrelefranais.corpsActivity"
+212-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:199:13-42
+213            android:exported="false" />
+213-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:200:13-37
+214        <activity
+214-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:201:9-203:40
+215            android:name="com.project.apprendrelefranais.vacancesActivity"
+215-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:202:13-45
+216            android:exported="false" />
+216-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:203:13-37
+217        <activity
+217-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:204:9-206:40
+218            android:name="com.project.apprendrelefranais.formesActivity"
+218-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:205:13-43
+219            android:exported="false" />
+219-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:206:13-37
+220        <activity
+220-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:207:9-209:40
+221            android:name="com.project.apprendrelefranais.cuisineActivity"
+221-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:208:13-44
+222            android:exported="false" />
+222-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:209:13-37
+223        <activity
+223-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:211:9-213:40
+224            android:name="com.project.apprendrelefranais.list_fruits_Activity"
+224-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:212:13-49
+225            android:exported="false" />
+225-->C:\Users\LB-PC\Desktop\Apprendrelefranais\app\src\main\AndroidManifest.xml:213:13-37
+226
+227        <provider
+227-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+228            android:name="androidx.startup.InitializationProvider"
+228-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+229            android:authorities="com.project.apprendrelefranais.androidx-startup"
+229-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+230            android:exported="false" >
+230-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+231            <meta-data
+231-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+232                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+232-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+233                android:value="androidx.startup" />
+233-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LB-PC\.gradle\caches\transforms-3\9ec162b5cb5dad7a953e18733a42dbca\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+234            <meta-data
+234-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+235                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+235-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+236                android:value="androidx.startup" />
+236-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\LB-PC\.gradle\caches\transforms-3\983748488b9e81a7fb8b6b462ce81aee\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+237            <meta-data
+237-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+238                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+238-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+239                android:value="androidx.startup" />
+239-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+240        </provider>
+241
+242        <receiver
+242-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+243            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+243-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+244            android:directBootAware="false"
+244-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+245            android:enabled="true"
+245-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+246            android:exported="true"
+246-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+247            android:permission="android.permission.DUMP" >
+247-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+248            <intent-filter>
+248-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+249                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+249-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+249-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+250            </intent-filter>
+251            <intent-filter>
+251-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+252                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+252-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+252-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+253            </intent-filter>
+254            <intent-filter>
+254-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+255                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+255-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+255-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+256            </intent-filter>
+257            <intent-filter>
+257-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+258                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+258-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+258-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LB-PC\.gradle\caches\transforms-3\784ad8f1570ed9f0e3099a314a2f712a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+259            </intent-filter>
+260        </receiver>
+261    </application>
+262
+263</manifest>

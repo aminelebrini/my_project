@@ -1,0 +1,2150 @@
+[
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_qactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_qactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_quiche.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/quiche.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_bat.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/bat.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_concombre.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/concombre.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_z.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_z.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signvet.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signvet.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signjrs.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signjrs.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_piment.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/piment.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_gri.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/gri.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_apprendre_le_fran_ais_removebg_preview.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/apprendre_le_fran_ais_removebg_preview.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_alphabet.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_alphabet.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_par.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/par.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__10_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__10_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signfru.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signfru.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mar.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mar.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_oo.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/oo.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_oactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_oactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_famille.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_famille.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__7_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__7_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_oran.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/oran.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_mois.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_mois.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_coc.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/coc.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_xx.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/xx.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_pactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_pactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_nu.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/nu.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_lvl4.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_lvl4.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_insectes.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_insectes.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_o.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/o.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_dixmille.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/dixmille.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_sinque.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/sinque.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_wapiti.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/wapiti.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sca.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sca.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_hi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/hi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ti.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ti.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_nactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_nactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_soleil.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/soleil.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_vert.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/vert.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_renard.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/renard.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ja.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ja.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sidentifier.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sidentifier.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_kouala.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/kouala.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_list_leg.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/list_leg.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_poiv.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/poiv.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_hele.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/hele.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n30.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n30.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_citrouille.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/citrouille.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_prof.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/prof.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign9.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign9.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_cha.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/cha.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_jeud.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/jeud.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pp.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pp.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_sactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_sactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pim.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pim.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_a.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/a.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ww.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ww.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_igloo.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/igloo.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mon.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mon.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_yy.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/yy.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_edi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/edi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_wactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_wactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_feu.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/feu.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_abeille_abeille.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/abeille_abeille.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__12_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__12_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_frais.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/frais.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_chat.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/chat.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_oignon.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/oignon.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_violet.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/violet.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable__707416755701.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/_707416755701.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_jeu.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/jeu.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_nn.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/nn.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ro.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ro.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ois.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ois.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n50.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n50.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_conc.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/conc.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__2_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__2_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_jactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_jactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_potere.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/potere.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_jours.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_jours.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_vel.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/vel.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_volcan.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/volcan.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_lai.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/lai.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signmois.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signmois.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_list_animaux.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/list_animaux.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mais.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mais.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign7.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign7.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_mais.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/mais.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pol.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pol.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_nav.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/nav.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_carotte.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/carotte.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pospol.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pospol.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_arr.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/arr.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_zappe.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/zappe.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_m.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_m.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_bleu.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/bleu.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_tactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_tactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_chien.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/chien.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_b.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_b.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pomp.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pomp.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_k.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/k.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_bl.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/bl.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_maison.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/maison.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sa.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sa.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pospomp.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pospomp.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signprof.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signprof.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_e.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/e.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_or.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/or.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_w.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/w.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_deux.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/deux.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_tech.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_tech.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_bus.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/bus.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_sinquente.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/sinquente.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_blanche.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/blanche.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_mactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_mactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_gateau.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/gateau.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pap.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pap.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign2.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign2.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_lvl2.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_lvl2.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_car.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/car.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_q.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/q.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_x.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/x.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_xxxx.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/xxxx.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_re.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/re.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_liv.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/liv.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_nombres__1_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_nombres__1_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_d.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_d.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_six.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/six.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_vingt.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/vingt.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_factivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_factivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_serpent.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/serpent.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_xe.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/xe.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_wh.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/wh.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_univ.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/univ.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_g.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/g.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_eactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_eactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_xylophone.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/xylophone.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_r.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_r.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_tra.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/tra.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_zz.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/zz.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_radis.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/radis.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_oig.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/oig.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n10000.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n10000.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_cra.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/cra.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_facebookk.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/facebookk.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_vv.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/vv.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_dro.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/dro.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_dactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_dactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ta.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ta.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_nuage.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/nuage.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_y.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/y.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_c.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_c.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_paste.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/paste.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_lune.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/lune.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_nov.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/nov.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_oni.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/oni.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_cam.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/cam.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_list_alphabet.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/list_alphabet.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ma.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ma.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_screenshot_2024_04_07_162649.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/screenshot_2024_04_07_162649.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_bateau.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/bateau.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_papillon.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/papillon.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sep.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sep.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_f.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/f.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n70.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n70.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signsalon.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signsalon.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n60.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n60.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_zactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_zactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_jan.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/jan.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_radi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/radi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_haricots.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/haricots.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_bain.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_bain.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_voi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/voi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_cent.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/cent.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mot.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mot.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_kiwi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/kiwi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_left_chevron.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/left_chevron.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signdra.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signdra.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_gr.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/gr.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n7.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n7.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_lu.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/lu.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_hari.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/hari.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_xactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_xactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ii.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ii.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_blanche.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/blanche.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_ville.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_ville.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ser.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ser.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ff.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ff.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_vi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/vi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_per.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/per.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__15_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__15_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_avoc.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/avoc.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_aubergine.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/aubergine.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signvile.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signvile.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_peche.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/peche.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_robot.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/robot.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_yaourt.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/yaourt.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_lactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_lactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_la.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/la.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_rue.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/rue.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mai.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mai.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ail.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ail.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_kactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_kactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_left_arrow.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/left_arrow.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ch.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ch.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_salon.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_salon.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_gom.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/gom.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sol.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sol.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_avril.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/avril.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_quatrevingtdix.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/quatrevingtdix.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_instagramm.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/instagramm.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mous.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mous.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_huit.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/huit.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_xeres.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/xeres.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n8.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n8.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_eee.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/eee.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_apprendre_le_fran_ais__1__removebg_preview.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/apprendre_le_fran_ais__1__removebg_preview.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_chambre.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_chambre.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_jj.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/jj.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_broc.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/broc.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_maiso.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/maiso.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_gg.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/gg.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_fou.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/fou.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_chat.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/chat.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_poire.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/poire.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_list.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_list.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_h.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/h.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_har.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/har.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_lvl5.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_lvl5.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signbain.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signbain.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signcou.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signcou.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__11_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__11_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_merc.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/merc.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ye.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ye.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signspace.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signspace.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_animaux.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_animaux.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signmet.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signmet.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_in.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/in.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_uu.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/uu.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_wap.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/wap.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n9.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n9.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_ractivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_ractivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_oi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/oi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__3_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__3_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pa.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pa.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_choufleur.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/choufleur.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_fusee.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/fusee.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_e.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_e.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_insecte.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/insecte.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_queue.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/queue.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_xy.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/xy.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_ananass.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/ananass.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ven.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ven.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_yactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_yactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_rouge.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/rouge.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_gi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/gi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_jaune.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/jaune.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_kk.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/kk.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_rose.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/rose.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_jagouar.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/jagouar.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_list_fruits.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_list_fruits.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_nenupha.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/nenupha.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_wa.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/wa.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_lvl3.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_lvl3.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_kiwii.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/kiwii.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_jaune.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/jaune.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_rouge.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/rouge.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pomm.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pomm.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__6_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__6_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_p.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/p.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_jardin.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/jardin.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_sport.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_sport.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_kiwi.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/kiwi.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_mille.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/mille.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_quarente.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/quarente.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signcol.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signcol.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_vacances.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_vacances.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_caf.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/caf.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_violet.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/violet.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ss.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ss.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_lvl1.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_lvl1.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_persil.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/persil.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_wagon.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/wagon.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_tt.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/tt.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_vo.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/vo.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_tomate.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/tomate.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ne.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ne.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pann.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pann.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_l.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_l.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_cho.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/cho.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_cerise.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/cerise.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_fl.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/fl.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sco.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sco.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_call.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/call.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n40.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n40.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_avocatt.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/avocatt.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_voiture.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/voiture.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_espace.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_espace.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signfamil.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signfamil.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_repas.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_repas.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_gris.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/gris.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_lampe.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/lampe.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_pays.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_pays.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ananas.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ananas.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n20.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n20.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_lait.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/lait.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign8.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign8.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_caro.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/caro.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_helicoptere.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/helicoptere.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_nombres.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_nombres.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_tort.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/tort.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_ecole.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_ecole.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_corps.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_corps.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_que.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/que.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_a.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_a.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_came.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/came.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ele.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ele.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_obe.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/obe.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_cit.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/cit.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signspor.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signspor.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ze.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ze.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_orange.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/orange.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_oorange.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/oorange.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_dromadaire.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/dromadaire.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_drapaux.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_drapaux.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign1.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign1.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signcui.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signcui.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pos.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pos.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_nombres__2_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_nombres__2_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n1.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n1.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_champignon.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/champignon.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_v.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/v.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__8_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__8_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pir.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pir.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_lun.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/lun.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n90.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n90.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ambu.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ambu.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pers.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pers.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_cactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_cactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_un.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/un.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable__707416755694.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/_707416755694.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_raiso.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/raiso.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signcor.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signcor.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_chien.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/chien.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_zebre.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/zebre.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_tom.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/tom.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_soicentedix.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/soicentedix.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sam.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sam.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_hh.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/hh.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signvac.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signvac.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_fleur.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/fleur.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_dr.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/dr.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_aou.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/aou.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_cart.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/cart.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pom.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pom.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sou.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sou.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_ail.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/ail.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_univers.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/univers.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ober.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ober.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_yucca.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/yucca.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_vend.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/vend.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_chouf.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/chouf.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_poivron.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/poivron.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ara.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ara.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signecole.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signecole.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_drapeau.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/drapeau.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_rrrrr.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/rrrrr.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_uniforme.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/uniforme.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_s.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_s.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_fev.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/fev.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_lapin.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/lapin.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_octo.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/octo.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mou.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mou.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_figue.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/figue.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n6.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n6.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signpay.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signpay.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__14_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__14_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_gris.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/gris.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ba.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ba.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_abai.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/abai.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_profes.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_profes.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_backward.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/backward.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__4_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__4_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sty.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sty.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_melo.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/melo.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_dec.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/dec.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n5.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n5.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_citro.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/citro.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sal.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sal.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_back_arrow.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/back_arrow.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_za.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/za.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_couleurs.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_couleurs.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ga.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ga.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_meteo.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_meteo.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_jui.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/jui.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_bana.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/bana.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mm.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mm.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_juil.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/juil.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_escargot.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/escargot.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_uni.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/uni.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_orange.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/orange.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_list_num.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_list_num.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_calc.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/calc.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_dix.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/dix.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_i.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/i.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signtrsp.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signtrsp.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__9_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__9_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_bro.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/bro.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n4.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n4.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_poi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/poi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_qq.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/qq.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pec.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pec.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_qui.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/qui.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign4.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign4.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign6.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign6.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_trsp.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_trsp.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_cham.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/cham.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_banc.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/banc.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_soisante.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/soisante.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_sept.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/sept.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ver.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ver.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_iactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_iactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_trente.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/trente.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_million.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/million.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_melon.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/melon.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_citron.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/citron.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_tigre.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/tigre.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_pomme.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/pomme.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign3.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign3.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_chi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/chi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_bactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_bactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n10.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n10.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_vetement.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_vetement.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_abeille.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/abeille.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n2.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n2.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_paint.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/paint.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_bleu.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/bleu.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_fig.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/fig.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/font_font.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/font/font.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_arbre.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/arbre.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_quatrevingt.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/quatrevingt.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_d.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/d.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_gactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_gactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mer.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mer.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signrep.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signrep.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_pasteque.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/pasteque.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_avi.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/avi.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n100.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n100.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_j.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/j.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ya.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ya.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pois.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pois.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_trois.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/trois.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ll.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ll.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_mars.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/mars.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_yu.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/yu.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_gre.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/gre.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signtech.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signtech.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_kiwii.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/kiwii.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_pass.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/pass.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ra.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ra.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_c.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/c.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_t.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/t.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signalpha.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signalpha.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signanim.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signanim.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_formes.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_formes.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_cuisine.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_cuisine.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ceris.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ceris.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ig.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ig.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_citr.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/citr.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_nombres__3_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_nombres__3_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_b.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/b.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_fu.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/fu.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_banane.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/banane.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_letter_u.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/letter_u.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_uactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_uactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_raisin.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/raisin.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signlegu.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signlegu.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_quatre.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/quatre.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signins.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signins.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_dim.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/dim.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n80.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n80.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_vactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_vactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_girafe.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/girafe.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signcham.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signcham.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sau.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sau.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_linkedin.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/linkedin.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n3.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n3.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_brocoli.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/brocoli.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_table.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/table.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_rr.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/rr.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__1_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__1_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_oiseau.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/oiseau.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_neuf.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/neuf.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n1000.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n1000.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_vert.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/vert.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_hactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_hactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_es.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/es.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_rose.jpg.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/rose.jpg"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_n1000000.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/n1000000.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signnom.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signnom.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_sign5.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/sign5.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_elephant.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/elephant.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_les_couleurs__13_.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/les_couleurs__13_.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_fraise.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/fraise.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_hibou.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/hibou.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_aactivity.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_aactivity.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_tab.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/tab.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_apprendre_le_fran_ais__2__removebg_preview.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/apprendre_le_fran_ais__2__removebg_preview.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_signform.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/signform.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_jag.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/jag.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_kouala.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/kouala.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_ar.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/ar.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_laitue.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/laitue.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/font_itimregular.ttf.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/font/itimregular.ttf"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/drawable_he.png.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/drawable/he.png"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/layout_activity_list_legume.xml.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/layout/activity_list_legume.xml"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_montagne.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/montagne.mp3"
+    },
+    {
+        "merged": "com.project.apprendrelefranais.app-merged_res-31:/raw_parapluie.mp3.flat",
+        "source": "com.project.apprendrelefranais.app-main-33:/raw/parapluie.mp3"
+    }
+]

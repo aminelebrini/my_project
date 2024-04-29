@@ -47,11 +47,10 @@ public class lvl1Activity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                Intent i = new Intent(lvl1Activity.this, fruits.class);
+                Intent i = new Intent(lvl1Activity.this, list_fruits_Activity.class);
                 startActivity(i);
             }
         });
-
         btn_legumes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

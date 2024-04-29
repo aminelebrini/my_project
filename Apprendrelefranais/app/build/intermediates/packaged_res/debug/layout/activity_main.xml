@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@drawable/les_couleurs__13_"
+        android:translationX="0dp"
+        android:translationY="79dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/font"
+        android:text="APPRENDRE LE FRANÇAIS"
+        android:textColor="@color/light_blue"
+        android:textSize="45dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:translationY="49dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="NOUVEAU VERSION"
+        android:textColor="@color/light_blue"
+        android:textAlignment="center"
+        android:textSize="15dp"
+        android:fontFamily="@font/itimregular"
+        android:translationY="-100dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_enter" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="CRÉER PAR LEBRINI DEV"
+        android:textColor="@color/light_blue"
+        android:textAlignment="center"
+        android:textSize="17dp"
+        android:fontFamily="@font/itimregular"
+        android:translationY="-65dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_enter" />
+
+
+
+    <ImageButton
+        android:id="@+id/btn_enter"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:translationY="-70dp"
+        android:translationX="-1dp"
+        android:background="@drawable/screenshot_2024_04_07_162649"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="horizontal"
+        android:translationY="630dp"
+        android:translationX="22dp"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:id="@+id/btn_facebook"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:translationX="-40dp"
+            android:background="@drawable/facebookk"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <ImageButton
+            android:id="@+id/btn_instagram"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:translationX="-30dp"
+            android:background="@drawable/instagramm"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <ImageButton
+            android:id="@+id/btn_linkdin"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:translationX="-20dp"
+            android:background="@drawable/linkedin"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <ImageButton
+            android:id="@+id/btn_x"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:translationX="-10dp"
+            android:background="@drawable/xxxx"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <ImageButton
+            android:id="@+id/btn_github"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:translationX="0dp"
+            android:background="@drawable/rrrrr"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

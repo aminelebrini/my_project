@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".lvl4Activity">
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="#BDB9B9"
+        android:padding="20dp"
+        android:translationY="7dp"
+        android:textSize="20dp"
+
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@color/light_blue"
+        android:text="LEVEL 4"
+        android:padding="10dp"
+        android:fontFamily="@font/itimregular"
+        android:textSize="40dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/btn_back"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:background="#039BE5"
+
+        android:src="@drawable/baseline_arrow_back_ios_new_24"
+        android:translationX="5dp"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck"
+        tools:layout_editor_absoluteX="25dp"
+        tools:src="@drawable/baseline_arrow_back_ios_new_24" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:id="@+id/first_layout"
+            android:layout_width="386dp"
+            android:layout_height="wrap_content"
+
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <ImageButton
+                android:id="@+id/btn_cham"
+                android:layout_width="165dp"
+                android:layout_height="165dp"
+                android:background="@drawable/signcham"
+                android:translationX="25dp"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btn_sal"
+                android:layout_width="165dp"
+                android:layout_height="165dp"
+                android:background="@drawable/signsalon"
+                android:translationX="35dp"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+
+        </LinearLayout>
+
+        <!--Second layout-->
+
+        <LinearLayout
+            android:id="@+id/second_layout"
+            android:layout_width="386dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:translationY="30dp"
+            tools:ignore="UselessParent">
+
+            <ImageButton
+                android:id="@+id/btn_spor"
+                android:layout_width="165dp"
+                android:layout_height="165dp"
+                android:background="@drawable/signspor"
+                android:translationX="25dp"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btn_espace"
+                android:layout_width="165dp"
+                android:layout_height="165dp"
+                android:background="@drawable/signspace"
+                android:translationX="35dp"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/first_layout1"
+            android:layout_width="390dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:translationY="55dp"
+            tools:ignore="UselessParent">
+
+            <ImageButton
+                android:id="@+id/btn_tech"
+                android:layout_width="165dp"
+                android:layout_height="165dp"
+                android:background="@drawable/signtech"
+                android:translationX="25dp"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btn_bain"
+                android:layout_width="165dp"
+                android:layout_height="165dp"
+                android:background="@drawable/signbain"
+                android:translationX="35dp"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
