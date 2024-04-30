@@ -2,9 +2,186 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".fruits">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:textSize="35dp"
+        android:background="#938E8E"
+        android:translationY="10dp"
+        android:textAlignment="center"
+        android:padding="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Les Fruits"
+        android:textSize="35dp"
+        android:background="@color/light_blue"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:padding="5dp"/>
 
+    <ImageButton
+        android:id="@+id/btn_back"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:translationY="12dp"
+        android:translationX="30dp"
+        android:background="@drawable/baseline_arrow_back_ios_new_24"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:translationY="81dp"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:translationY="1dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btn_bananne"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:translationX="12dp"
+            android:background="@drawable/bana"/>
+
+        <ImageButton
+            android:id="@+id/btn_pomme"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:translationX="12dp"
+            android:background="@drawable/pomm"/>
+
+        <ImageButton
+            android:id="@+id/btn_citron"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:translationX="12dp"
+            android:background="@drawable/citro"/>
+    </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:translationY="1dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/btn_raisin"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/raiso"/>
+
+            <ImageButton
+                android:id="@+id/btn_cerise"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/ceris"/>
+
+            <ImageButton
+                android:id="@+id/btn_orangge"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/oran"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:translationY="1dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/btn_poire"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/poi"/>
+
+            <ImageButton
+                android:id="@+id/btn_fraise"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/frais"/>
+
+            <ImageButton
+                android:id="@+id/btn_ananas"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/ananas"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:translationY="1dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/btn_pasteque"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/paste"/>
+
+            <ImageButton
+                android:id="@+id/btn_peche"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/pec"/>
+
+            <ImageButton
+                android:id="@+id/btn_kiwii"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/kiwi"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:translationY="1dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/btn_avocat"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/avoc"/>
+
+            <ImageButton
+                android:id="@+id/btn_melon"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/melo"/>
+
+            <ImageButton
+                android:id="@+id/btn_figue"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:translationX="12dp"
+                android:background="@drawable/fig"/>
+        </LinearLayout>
+    </LinearLayout>
 
 </RelativeLayout>
