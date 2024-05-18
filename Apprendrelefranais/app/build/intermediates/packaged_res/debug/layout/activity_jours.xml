@@ -55,15 +55,15 @@
         android:translationY="-4dp"
         android:translationX="55dp">
 
-        <ImageView
-            android:id="@+id/img_1"
+        <ImageButton
+            android:id="@+id/btn_lundi"
             android:layout_width="130dp"
             android:layout_height="130dp"
             android:translationX="12dp"
             android:background="@drawable/lun"/>
 
-        <ImageView
-            android:id="@+id/img_2"
+        <ImageButton
+            android:id="@+id/btn_mardi"
             android:layout_width="130dp"
             android:layout_height="130dp"
 
@@ -81,16 +81,16 @@
         android:translationY="-17dp"
         android:translationX="21dp">
 
-        <ImageView
-            android:id="@+id/img_3"
+        <ImageButton
+            android:id="@+id/btn_mercredi"
             android:layout_width="130dp"
             android:layout_height="130dp"
             android:translationX="45dp"
             android:background="@drawable/merc"/>
 
 
-        <ImageView
-            android:id="@+id/img_4"
+        <ImageButton
+            android:id="@+id/btn_jeudi"
             android:layout_width="130dp"
             android:layout_height="130dp"
             android:translationX="35dp"
@@ -105,23 +105,23 @@
             android:translationX="0dp"
             android:translationY="-17dp">
 
-            <ImageView
-                android:id="@+id/img_5"
+            <ImageButton
+                android:id="@+id/btn_vendredi"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="66dp"
                 android:background="@drawable/ven"/>
 
 
-            <ImageView
-                android:id="@+id/img_6"
+            <ImageButton
+                android:id="@+id/btn_samedi"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="57dp"
                 android:background="@drawable/sam"/>
 
-            <ImageView
-                android:id="@+id/img_7"
+            <ImageButton
+                android:id="@+id/btn_dimanche"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationY="130dp"

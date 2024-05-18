@@ -56,22 +56,22 @@
             android:orientation="horizontal"
             android:translationY="-4dp">
 
-            <ImageView
-                android:id="@+id/img_1"
+            <ImageButton
+                android:id="@+id/btn_janvier"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/jan"/>
 
-            <ImageView
-                android:id="@+id/img_2"
+            <ImageButton
+                android:id="@+id/btn_fevrier"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
 
                 android:background="@drawable/fev"/>
 
-            <ImageView
-                android:id="@+id/img_3"
+            <ImageButton
+                android:id="@+id/btn_mars"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-12dp"
@@ -89,22 +89,22 @@
             android:translationY="-17dp">
 
 
-            <ImageView
-                android:id="@+id/img_4"
+            <ImageButton
+                android:id="@+id/btn_avril"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/avril"/>
 
-            <ImageView
-                android:id="@+id/img_5"
+            <ImageButton
+                android:id="@+id/btn_mai"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/ma"/>
 
-            <ImageView
-                android:id="@+id/img_6"
+            <ImageButton
+                android:id="@+id/btn_juin"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-15dp"
@@ -121,22 +121,22 @@
             android:orientation="horizontal"
             android:translationY="-28dp">
 
-            <ImageView
-                android:id="@+id/img_7"
+            <ImageButton
+                android:id="@+id/btn_juillet"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/juil"/>
 
-            <ImageView
-                android:id="@+id/img_8"
+            <ImageButton
+                android:id="@+id/btn_aout"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/aou"/>
 
-            <ImageView
-                android:id="@+id/img_9"
+            <ImageButton
+                android:id="@+id/btn_septembre"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-15dp"
@@ -154,22 +154,22 @@
             android:orientation="horizontal"
             android:translationY="-41dp">
 
-            <ImageView
-                android:id="@+id/img_10"
+            <ImageButton
+                android:id="@+id/btn_octobre"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/octo"/>
 
-            <ImageView
-                android:id="@+id/img_11"
+            <ImageButton
+                android:id="@+id/btn_nouvembre"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/nov"/>
 
-            <ImageView
-                android:id="@+id/img_12"
+            <ImageButton
+                android:id="@+id/btn_decembre"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-14dp"

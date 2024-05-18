@@ -56,22 +56,22 @@
             android:orientation="horizontal"
             android:translationY="-4dp">
 
-            <ImageView
-                android:id="@+id/img_1"
+            <ImageButton
+                android:id="@+id/btn_classe"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/sal"/>
 
-            <ImageView
-                android:id="@+id/img_2"
+            <ImageButton
+                android:id="@+id/btn_eleve"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
 
                 android:background="@drawable/ele"/>
 
-            <ImageView
-                android:id="@+id/img_3"
+            <ImageButton
+                android:id="@+id/btn_prof"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-12dp"
@@ -89,22 +89,22 @@
             android:translationY="-17dp">
 
 
-            <ImageView
-                android:id="@+id/img_4"
+            <ImageButton
+                android:id="@+id/btn_crayon"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/cra"/>
 
-            <ImageView
-                android:id="@+id/img_5"
+            <ImageButton
+                android:id="@+id/btn_stylo"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/sty"/>
 
-            <ImageView
-                android:id="@+id/img_6"
+            <ImageButton
+                android:id="@+id/btn_gomme"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-15dp"
@@ -121,22 +121,22 @@
             android:orientation="horizontal"
             android:translationY="-28dp">
 
-            <ImageView
-                android:id="@+id/img_7"
+            <ImageButton
+                android:id="@+id/btn_tab"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/tab"/>
 
-            <ImageView
-                android:id="@+id/img_8"
+            <ImageButton
+                android:id="@+id/btn_calcul"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/calc"/>
 
-            <ImageView
-                android:id="@+id/img_9"
+            <ImageButton
+                android:id="@+id/btn_bureau"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-15dp"
@@ -154,22 +154,22 @@
             android:orientation="horizontal"
             android:translationY="-41dp">
 
-            <ImageView
-                android:id="@+id/img_10"
+            <ImageButton
+                android:id="@+id/btn_cartable"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/cart"/>
 
-            <ImageView
-                android:id="@+id/img_11"
+            <ImageButton
+                android:id="@+id/btn_colle"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/call"/>
 
-            <ImageView
-                android:id="@+id/img_12"
+            <ImageButton
+                android:id="@+id/btn_livre"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-14dp"

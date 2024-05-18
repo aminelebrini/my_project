@@ -43,10 +43,108 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:orientation="vertical"
         android:translationY="90dp"
-        android:orientation="vertical">
+        android:translationX="-10dp">
 
-        <include layout="@layout/list_animaux"/>
+        <!--FIRST LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-4dp">
+
+            <ImageButton
+                android:id="@+id/btn_chien"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/chien"/>
+
+            <ImageButton
+                android:id="@+id/btn_chat"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+
+                android:background="@drawable/chat"/>
+
+            <ImageButton
+                android:id="@+id/btn_oiseauu"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-12dp"
+                android:background="@drawable/ois"/>
+
+
+        </LinearLayout>
+
+        <!---SECOND LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-17dp">
+
+
+            <ImageButton
+                android:id="@+id/btn_poisson"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/pois"/>
+
+            <ImageButton
+                android:id="@+id/btn_souris"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/sou"/>
+
+            <ImageButton
+                android:id="@+id/btn_tortue"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/tort"/>
+
+
+        </LinearLayout>
+
+        <!--THIRD LAYOUT-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:orientation="horizontal"
+            android:translationY="-28dp">
+
+            <ImageButton
+                android:id="@+id/btn_lapin"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="12dp"
+                android:background="@drawable/lapin"/>
+
+            <ImageButton
+                android:id="@+id/btn_cameleon"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-2dp"
+                android:background="@drawable/came"/>
+
+            <ImageButton
+                android:id="@+id/btn_peroquet"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:translationX="-15dp"
+                android:background="@drawable/pir"/>
+
+
+
+        </LinearLayout>
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

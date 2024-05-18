@@ -1,4 +1,4 @@
-#Fri May 03 00:04:51 WEST 2024
+#Tue May 14 19:48:19 WEST 2024
 base.0=C\:\\Users\\LB-PC\\Desktop\\Apprendrelefranais\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\LB-PC\\Desktop\\Apprendrelefranais\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\LB-PC\\Desktop\\Apprendrelefranais\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex

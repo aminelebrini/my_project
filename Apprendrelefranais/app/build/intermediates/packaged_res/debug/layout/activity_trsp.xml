@@ -58,26 +58,26 @@
             android:orientation="horizontal"
             android:translationY="-4dp">
 
-            <ImageView
-                android:id="@+id/img_1"
+            <ImageButton
+                android:id="@+id/btn_velo"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/vel"/>
 
-            <ImageView
-                android:id="@+id/img_2"
+            <ImageButton
+                android:id="@+id/btn_train"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
 
                 android:background="@drawable/tra"/>
 
-            <ImageView
-                android:id="@+id/img_3"
+            <ImageButton
+                android:id="@+id/btn_voiiture"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-12dp"
-                android:background="@drawable/voi"/>
+                android:background="@drawable/voit"/>
 
 
         </LinearLayout>
@@ -91,22 +91,22 @@
             android:translationY="-17dp">
 
 
-            <ImageView
-                android:id="@+id/img_4"
+            <ImageButton
+                android:id="@+id/btn_navire"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/nav"/>
 
-            <ImageView
-                android:id="@+id/img_5"
+            <ImageButton
+                android:id="@+id/btn_avion"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/avi"/>
 
-            <ImageView
-                android:id="@+id/img_6"
+            <ImageButton
+                android:id="@+id/btn_moto"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-15dp"
@@ -123,22 +123,22 @@
             android:orientation="horizontal"
             android:translationY="-28dp">
 
-            <ImageView
-                android:id="@+id/img_7"
+            <ImageButton
+                android:id="@+id/btn_camion"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/cam"/>
 
-            <ImageView
-                android:id="@+id/img_8"
+            <ImageButton
+                android:id="@+id/btn_bus"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/bus"/>
 
-            <ImageView
-                android:id="@+id/img_9"
+            <ImageButton
+                android:id="@+id/btn_helicopterre"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-15dp"
@@ -156,22 +156,22 @@
             android:orientation="horizontal"
             android:translationY="-41dp">
 
-            <ImageView
-                android:id="@+id/img_10"
+            <ImageButton
+                android:id="@+id/btn_voipolice"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="12dp"
                 android:background="@drawable/pol"/>
 
-            <ImageView
-                android:id="@+id/img_11"
+            <ImageButton
+                android:id="@+id/btn_campompier"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-2dp"
                 android:background="@drawable/pomp"/>
 
-            <ImageView
-                android:id="@+id/img_12"
+            <ImageButton
+                android:id="@+id/btn_ambulance"
                 android:layout_width="130dp"
                 android:layout_height="130dp"
                 android:translationX="-14dp"
